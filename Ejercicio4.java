@@ -26,7 +26,7 @@ public class Codigo4 {
 	        case "piedra":
 	          if (j2 == "tijeras") {
 	            g = 1;
-	          }break //Se agrega el break para no pasar al siguiente
+	          }break //Se agrega el break para no pasar al siguiente case
 	
 	        case "papel":
 	          if (j2 == "piedra") {
